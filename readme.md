@@ -1,3 +1,3 @@
-# Testing Github CLI commands
+# Contact info design
 
-This was a test on how to use the Github CLI Command tool.
+This will be used as a way to share my contact information.
