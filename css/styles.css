@@ -284,7 +284,7 @@ body {
     }
     .card .card_content li {
         width:100%;
-        margin-bottom: 15px;
+        margin-bottom: 1px;
         padding-top: 13px;
         height: 60px;
     }
